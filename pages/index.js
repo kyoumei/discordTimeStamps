@@ -13,8 +13,8 @@ export default function Home() {
       <Container size="sm">
         <Title mt="md">Discord - Time to Unix Converter</Title>
         <Text mb="md">
-          Quickly convert times into unix timestamps that automatically convert to local timestamps based on a user's
-          local time on discord.
+          Quickly convert times into unix timestamps that automatically convert to local timestamps based on a user
+          {`&apos;`}s local time on discord.
         </Text>
         <Title order={4}>How to use?</Title>
         <Text my="md">
